@@ -1,7 +1,7 @@
 # zy0105.github.com
 >This is my personal page!
 
-... js
+...js
 var name = 'zy0105';
 var age = 18;
 ...
